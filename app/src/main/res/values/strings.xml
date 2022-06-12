@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MeshCare</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_my_account">My Account</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
